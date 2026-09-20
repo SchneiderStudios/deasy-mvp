@@ -1,0 +1,9 @@
+{
+  "name": "deasy-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "DEASY — KI-Assistent für Bürokratie in Deutschland. Statische Landingpage + Vercel Function für die Dokument-Analyse.",
+  "engines": {
+    "node": ">=18"
+  }
+}
